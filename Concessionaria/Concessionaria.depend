@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1729724859 source:c:\users\lab01-007\desktop\trabalho ensina\concessionaria\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1729724859 c:\users\lab01-007\desktop\trabalho ensina\concessionaria\cliente.h
+
+1729725191 source:c:\users\lab01-007\desktop\trabalho ensina\concessionaria\veiculo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"veiculo.h"
+
+1729724859 c:\users\lab01-007\desktop\trabalho ensina\concessionaria\veiculo.h
+
+1729725187 source:c:\users\lab01-007\desktop\trabalho ensina\concessionaria\venda.c
+	<stdio.h>
+	<stdlib.h>
+	"venda.h"
+	"veiculo.h"
+	"vendedor.h"
+	"cliente.h"
+
+1729724859 c:\users\lab01-007\desktop\trabalho ensina\concessionaria\venda.h
+	"cliente.h"
+	"vendedor.h"
+	"veiculo.h"
+
+1729724859 c:\users\lab01-007\desktop\trabalho ensina\concessionaria\vendedor.h
+
+1729725191 source:c:\users\lab01-007\desktop\trabalho ensina\concessionaria\vendedor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vendedor.h"
+
+1729725952 source:c:\users\lab01-007\desktop\trabalho ensina\concessionaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"veiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"venda.h"
+
+1732746490 source:c:\users\vinic\desktop\trabalho ensina\concessionaria\cliente.c
+	"cliente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1732745889 c:\users\vinic\desktop\trabalho ensina\concessionaria\cliente.h
+
+1732723652 source:c:\users\vinic\desktop\trabalho ensina\concessionaria\venda.c
+	"venda.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1732745865 c:\users\vinic\desktop\trabalho ensina\concessionaria\venda.h
+
+1732745990 c:\users\vinic\desktop\trabalho ensina\concessionaria\vendedor.h
+
+1732745865 c:\users\vinic\desktop\trabalho ensina\concessionaria\veiculo.h
+
+1732746490 source:c:\users\vinic\desktop\trabalho ensina\concessionaria\vendedor.c
+	"vendedor.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1732746592 source:c:\users\vinic\desktop\trabalho ensina\concessionaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"veiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"venda.h"
+
+1732746490 source:c:\users\vinic\desktop\trabalho ensina\concessionaria\veiculo.c
+	"veiculo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
